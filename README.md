@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
+## Available Scripts
+in this projecty we are making the app which will help hotel chains 
 In the project directory, you can run:
 
 ### `npm start`
